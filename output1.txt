@@ -1,0 +1,5 @@
+These are all the possible paths: 
+Path 1: [L, C, A, D, B, K]
+Path 2: [L, C, G, H, B, K]
+Path 3: [L, C, G, I, H, B, K]
+Path 4: [L, C, H, B, K]
